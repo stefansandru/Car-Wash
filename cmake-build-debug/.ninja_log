@@ -1,0 +1,26 @@
+# ninja log v5
+254	1698	1735243365152775314	CMakeFiles/CarWash.dir/CarWash_autogen/mocs_compilation.cpp.o	ee9d14950f247e17
+1699	2321	1735243365777371558	CMakeFiles/CarWash.dir/Repository/CarWashRepository.cpp.o	a6505bdf13d7fbc9
+17	92	1735375482330593404	CarWash_autogen/mocs_compilation.cpp	866f51397d4f7589
+10	1170	1734963111651458702	CMakeFiles/CarWash.dir/service.cpp.o	c752de5057592679
+55	851	1734963095087980519	CMakeFiles/CarWash.dir/validator.cpp.o	856a84c9ef26a1cd
+95	1869	1735375484100440479	CMakeFiles/CarWash.dir/main.cpp.o	5136fe39d4ea6171
+4	502	1735496401927979688	build.ninja	2a2dbfb19d2d9c00
+10	902	1734963111383749358	CMakeFiles/CarWash.dir/export.cpp.o	1e265e8d81e4e8b5
+17	92	1735375482330593404	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug/CarWash_autogen/mocs_compilation.cpp	866f51397d4f7589
+17	92	1735375482330593404	CarWash_autogen/timestamp	866f51397d4f7589
+72	1989	1735291543227406810	CMakeFiles/CarWash.dir/GUI/RaportGUI.cpp.o	aaa7804e5a56d19c
+1312	2415	1735243365871921960	CMakeFiles/CarWash.dir/Repository/CarsRepository.cpp.o	5668693e8f47002a
+43	950	1734609325008093588	CMakeFiles/CarWash.dir/car.cpp.o	398e79f1d8f73fa1
+51	1407	1734973838428847157	CMakeFiles/CarWash.dir/gui.cpp.o	e02e6b10d82a2bdb
+104	1269	1735294590760529269	CMakeFiles/CarWash.dir/Export/export.cpp.o	78ff5b5947eef309
+59	1477	1734963086938483086	CMakeFiles/CarWash.dir/repo.cpp.o	712b535d3ca1b628
+95	1876	1735375484104769651	CMakeFiles/CarWash.dir/GUI/CarWashGUI.cpp.o	99a287fa7a4e51f8
+254	1250	1735243364704323439	CMakeFiles/CarWash.dir/Domain/car.cpp.o	cf4846d66cb7cc64
+17	92	1735375482330593404	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug/CarWash_autogen/timestamp	866f51397d4f7589
+60	1124	1735298392979503014	CMakeFiles/CarWash.dir/GUI/MainGUI.cpp.o	f70982f19f603544
+58	1200	1734963086665266810	CMakeFiles/CarWash.dir/carWash.cpp.o	4391c8934a694ce5
+72	708	1735298463078822319	CMakeFiles/CarWash.dir/Validators/validator.cpp.o	dfb8b3feda79233b
+65	956	1735142356955568023	CMakeFiles/CarWash.dir/GUI/FilterGUI.cpp.o	977d38cbe337741e
+1876	2024	1735375484260091936	CarWash	aeb0981f6f95921b
+107	1423	1735294590912885713	CMakeFiles/CarWash.dir/Service/service.cpp.o	b8ba5c64ff7b9511

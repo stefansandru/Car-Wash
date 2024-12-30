@@ -1,0 +1,5 @@
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CMakeFiles/CarWash.dir
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CMakeFiles/CarWash_autogen_timestamp_deps.dir
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CMakeFiles/CarWash_autogen.dir

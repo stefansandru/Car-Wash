@@ -1,0 +1,100 @@
+# ninja log v5
+2041	3851	1735561229077682080	CMakeFiles/CarWash.dir/Tests/ServiceTest.cpp.o	df8d7dfb544f079a
+285	1462	1735561226690326498	CMakeFiles/CarWash.dir/CarWash_autogen/mocs_compilation.cpp.o	3333de6da7d1840c
+1979	2587	1735561227816912614	CMakeFiles/CarWash.dir/Validators/validator.cpp.o	bb95c6a62f6ca517
+3852	3987	1735561229217383382	CarWash	13751c81135369ba
+1838	2741	1735561227970582993	CMakeFiles/CarWash.dir/Service/service.cpp.o	6658cb2956c6bde9
+285	1978	1735561227203167440	CMakeFiles/CarWash.dir/GUI/MainGUI.cpp.o	94f0f20477c66dae
+1105	2350	1735561227579639360	CMakeFiles/CarWash.dir/GUI/RaportGUI.cpp.o	8ec64e8979b91779
+1187	2094	1735561227320964472	CMakeFiles/CarWash.dir/Repository/CarsRepository.cpp.o	c7d979a0aa653a6f
+22	284	1735561225509539000	CarWash_autogen/timestamp	796957c4ac0498a3
+285	1187	1735561226417086918	CMakeFiles/CarWash.dir/Export/export.cpp.o	af122c0e6235b67
+22	284	1735561225509539000	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+1462	2244	1735561227470599583	CMakeFiles/CarWash.dir/Repository/CarWashRepository.cpp.o	c223aa407d951f44
+285	1838	1735561227063067234	CMakeFiles/CarWash.dir/GUI/CarWashGUI.cpp.o	8ab8b8b5299f4550
+285	2041	1735561227265743362	CMakeFiles/CarWash.dir/main.cpp.o	c7555dab767d72e6
+22	284	1735561225509539000	CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+22	284	1735561225509539000	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/timestamp	796957c4ac0498a3
+7	793	1735496401928159068	build.ninja	3ecdac413bd6d76c
+285	1104	1735561226333232993	CMakeFiles/CarWash.dir/Domain/car.cpp.o	292b38ae2d553434
+2094	2969	1735561228197923781	CMakeFiles/CarWash.dir/Tests/CarsRepositoryTest.cpp.o	10a75ff4c4c3c144
+40	362	1735561381732385000	CarWash_autogen/timestamp	796957c4ac0498a3
+40	362	1735561381732385000	CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+40	362	1735561381732385000	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/timestamp	796957c4ac0498a3
+40	362	1735561381732385000	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+363	1127	1735561382508116483	CMakeFiles/CarWash.dir/Domain/car.cpp.o	292b38ae2d553434
+23	312	1735561479079531000	CarWash_autogen/timestamp	796957c4ac0498a3
+23	312	1735561479079531000	CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+23	312	1735561479079531000	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/timestamp	796957c4ac0498a3
+23	312	1735561479079531000	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+314	1175	1735561479948970486	CMakeFiles/CarWash.dir/Domain/car.cpp.o	292b38ae2d553434
+316	1256	1735561480030370616	CMakeFiles/CarWash.dir/Export/export.cpp.o	af122c0e6235b67
+312	1686	1735561480458385411	CMakeFiles/CarWash.dir/CarWash_autogen/mocs_compilation.cpp.o	3333de6da7d1840c
+318	1979	1735561480749413009	CMakeFiles/CarWash.dir/GUI/CarWashGUI.cpp.o	8ab8b8b5299f4550
+318	2133	1735561480901370085	CMakeFiles/CarWash.dir/GUI/MainGUI.cpp.o	94f0f20477c66dae
+313	2231	1735561481002638009	CMakeFiles/CarWash.dir/main.cpp.o	c7555dab767d72e6
+1257	2254	1735561481028067524	CMakeFiles/CarWash.dir/Repository/CarsRepository.cpp.o	c7d979a0aa653a6f
+1686	2435	1735561481209064632	CMakeFiles/CarWash.dir/Repository/CarWashRepository.cpp.o	c223aa407d951f44
+1187	2560	1735561481332877439	CMakeFiles/CarWash.dir/GUI/RaportGUI.cpp.o	8ec64e8979b91779
+2134	2712	1735561481486455208	CMakeFiles/CarWash.dir/Validators/validator.cpp.o	bb95c6a62f6ca517
+1979	2780	1735561481552956794	CMakeFiles/CarWash.dir/Service/service.cpp.o	6658cb2956c6bde9
+2254	3230	1735561482004534196	CMakeFiles/CarWash.dir/Tests/CarsRepositoryTest.cpp.o	10a75ff4c4c3c144
+2231	4044	1735561482818243903	CMakeFiles/CarWash.dir/Tests/ServiceTest.cpp.o	df8d7dfb544f079a
+4044	4193	1735561482970297313	CarWash	13751c81135369ba
+22	62	1735561578773429199	CarWash_autogen/timestamp	796957c4ac0498a3
+22	62	1735561578773429199	CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+22	62	1735561578773429199	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/timestamp	796957c4ac0498a3
+22	62	1735561578773429199	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+65	824	1735561579524761806	CMakeFiles/CarWash.dir/Service/service.cpp.o	6658cb2956c6bde9
+835	951	1735561579659613217	CarWash	13751c81135369ba
+25	67	1735562158435389705	CarWash_autogen/timestamp	796957c4ac0498a3
+25	67	1735562158435389705	CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+25	67	1735562158435389705	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/timestamp	796957c4ac0498a3
+25	67	1735562158435389705	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+70	1109	1735562159470586457	CMakeFiles/CarWash.dir/Export/export.cpp.o	af122c0e6235b67
+71	1248	1735562159608704047	CMakeFiles/CarWash.dir/Service/service.cpp.o	6658cb2956c6bde9
+71	1481	1735562159839647627	CMakeFiles/CarWash.dir/GUI/RaportGUI.cpp.o	8ec64e8979b91779
+71	1558	1735562159919801069	CMakeFiles/CarWash.dir/GUI/CarWashGUI.cpp.o	8ab8b8b5299f4550
+70	1683	1735562160041306212	CMakeFiles/CarWash.dir/main.cpp.o	c7555dab767d72e6
+19	239	1735562368525208000	CarWash_autogen/timestamp	796957c4ac0498a3
+19	239	1735562368525208000	CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+19	239	1735562368525208000	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/timestamp	796957c4ac0498a3
+19	239	1735562368525208000	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+239	1287	1735562369578241659	CMakeFiles/CarWash.dir/CarWash_autogen/mocs_compilation.cpp.o	3333de6da7d1840c
+29	69	1735562411860061286	CarWash_autogen/timestamp	796957c4ac0498a3
+29	69	1735562411860061286	CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+29	69	1735562411860061286	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/timestamp	796957c4ac0498a3
+29	69	1735562411860061286	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+73	1301	1735562413079104861	CMakeFiles/CarWash.dir/Export/export.cpp.o	af122c0e6235b67
+74	1687	1735562413469498019	CMakeFiles/CarWash.dir/Service/service.cpp.o	6658cb2956c6bde9
+73	1890	1735562413671529943	CMakeFiles/CarWash.dir/GUI/RaportGUI.cpp.o	8ec64e8979b91779
+73	2254	1735562414036031828	CMakeFiles/CarWash.dir/main.cpp.o	c7555dab767d72e6
+1314	3462	1735562415242997783	CMakeFiles/CarWash.dir/Tests/ServiceTest.cpp.o	df8d7dfb544f079a
+12	217	1735562433129308000	CarWash_autogen/timestamp	796957c4ac0498a3
+12	217	1735562433129308000	CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+12	217	1735562433129308000	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/timestamp	796957c4ac0498a3
+12	217	1735562433129308000	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+217	1232	1735562434148488254	CMakeFiles/CarWash.dir/CarWash_autogen/mocs_compilation.cpp.o	3333de6da7d1840c
+217	1538	1735562434453825179	CMakeFiles/CarWash.dir/GUI/CarWashGUI.cpp.o	8ab8b8b5299f4550
+217	1569	1735562434483822312	CMakeFiles/CarWash.dir/GUI/MainGUI.cpp.o	94f0f20477c66dae
+1570	1746	1735562434664054908	CarWash	13751c81135369ba
+21	293	1735563149912813000	CarWash_autogen/timestamp	796957c4ac0498a3
+21	293	1735563149912813000	CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+21	293	1735563149912813000	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/timestamp	796957c4ac0498a3
+21	293	1735563149912813000	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+294	1060	1735563150689032590	CMakeFiles/CarWash.dir/CarWash_autogen/mocs_compilation.cpp.o	3333de6da7d1840c
+294	1259	1735563150889173386	CMakeFiles/CarWash.dir/GUI/CarWashGUI.cpp.o	8ab8b8b5299f4550
+294	1299	1735563150928993872	CMakeFiles/CarWash.dir/GUI/MainGUI.cpp.o	94f0f20477c66dae
+1299	1431	1735563151063702205	CarWash	13751c81135369ba
+18	57	1735563452883681768	CarWash_autogen/timestamp	796957c4ac0498a3
+18	57	1735563452883681768	CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+18	57	1735563452883681768	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/timestamp	796957c4ac0498a3
+18	57	1735563452883681768	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+61	1033	1735563453854572184	CMakeFiles/CarWash.dir/GUI/MainGUI.cpp.o	94f0f20477c66dae
+1049	1167	1735563453991295244	CarWash	13751c81135369ba
+20	61	1735566743364723820	CarWash_autogen/timestamp	796957c4ac0498a3
+20	61	1735566743364723820	CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+20	61	1735566743364723820	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/timestamp	796957c4ac0498a3
+20	61	1735566743364723820	/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Sem 2/OOP/CarWash/cmake-build-debug-coverage/CarWash_autogen/mocs_compilation.cpp	796957c4ac0498a3
+64	1226	1735566744522211689	CMakeFiles/CarWash.dir/GUI/CarWashGUI.cpp.o	8ab8b8b5299f4550
+1234	1383	1735566744683270141	CarWash	13751c81135369ba
